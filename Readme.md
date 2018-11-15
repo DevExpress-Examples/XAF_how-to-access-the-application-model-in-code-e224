@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [SelectViewController.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/SelectViewController.cs) (VB: [SelectViewController.vb](./VB/HowToAccessApplicationModelInCode.Module.Win/SelectViewController.vb))
+* [SwitchController.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/SwitchController.cs) (VB: [SwitchController.vb](./VB/HowToAccessApplicationModelInCode.Module.Win/SwitchController.vb))
+<!-- default file list end -->
 # How to Access the Application Model in Code
 
 
