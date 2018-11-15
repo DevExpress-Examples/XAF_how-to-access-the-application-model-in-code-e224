@@ -1,3 +1,20 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/HowToAccessApplicationModelInCode.Module.Win/Model.DesignedDiffs.xafml)
+* [SelectViewController.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/SelectViewController.cs) (VB: [SelectViewController.vb](./VB/HowToAccessApplicationModelInCode.Module.Win/SelectViewController.vb))
+* [SwitchController.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/SwitchController.cs) (VB: [SwitchController.vb](./VB/HowToAccessApplicationModelInCode.Module.Win/SwitchController.vb))
+* [Updater.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/Updater.cs)
+* [WinModule.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/WinModule.cs)
+* [CodeCentralExampleInMemoryDataStoreProvider.cs](./CS/HowToAccessApplicationModelInCode.Module/CodeCentralExampleInMemoryDataStoreProvider.cs)
+* [Contact.cs](./CS/HowToAccessApplicationModelInCode.Module/Contact.cs)
+* [Model.DesignedDiffs.xafml](./CS/HowToAccessApplicationModelInCode.Module/Model.DesignedDiffs.xafml)
+* [Module.cs](./CS/HowToAccessApplicationModelInCode.Module/Module.cs)
+* [Updater.cs](./CS/HowToAccessApplicationModelInCode.Module/Updater.cs)
+* [Model.xafml](./CS/HowToAccessApplicationModelInCode.Win/Model.xafml)
+* [Program.cs](./CS/HowToAccessApplicationModelInCode.Win/Program.cs)
+* [WinApplication.cs](./CS/HowToAccessApplicationModelInCode.Win/WinApplication.cs)
+<!-- default file list end -->
 # How to Access the Application Model in Code
 
 
