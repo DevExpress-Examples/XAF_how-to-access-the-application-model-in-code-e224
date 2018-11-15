@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[SwitchController.cs](./CS/HowToAccessApplicationModelInCode.Module.Win/SwitchController.cs) (VB: [SwitchController.vb](./VB/HowToAccessApplicationModelInCode.Module.Win/SwitchController.vb))**
+<!-- default file list end -->
 # How to Access the Application Model in Code
 
 
